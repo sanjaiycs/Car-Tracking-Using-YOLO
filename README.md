@@ -22,6 +22,12 @@ It detects cars from video footage, tracks them across frames, and counts vehicl
 3. Tracking assigns IDs to vehicles  
 4. Vehicles crossing the counting line are counted
 
+# Screenshots
+
+![image alt](https://github.com/sanjaiycs/Car-Tracking-Using-YOLO/blob/d9300929c0deccddeaf9ddf33a9242eb440328ae/detection.png)
+
+![image alt](https://github.com/sanjaiycs/Car-Tracking-Using-YOLO/blob/d9300929c0deccddeaf9ddf33a9242eb440328ae/d2.png)
+
 ## Installation
 ```bash
 pip install ultralytics opencv-python numpy
