@@ -44,8 +44,3 @@ Place your input video inside the project folder and update the video path in th
 - Detected vehicles with bounding boxes  
 - Vehicle ID tracking  
 - Live count displayed on the video feed
-
-## Future Improvements
-- Support for multiple vehicle classes  
-- Improved tracking algorithms (DeepSORT, ByteTrack)  
-- Deployment as a desktop or edge application
